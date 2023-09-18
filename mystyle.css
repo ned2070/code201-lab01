@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: red;
+  background-color: lightpink;
+  border: 10px;
+  border-color: white;
+  border-style: double;
+}
+
+p {
+  font-size: 32px;
+  border: 10px;
+  border-color: black;
+  border-style: groove;
+}
+
+#para1 {
+  color: orange;
+  background-color: lightgrey;
+}
+
+#para2 {
+  color: yellow;
+  background-color: grey;
+}
+
+#para3 {
+  color: green;
+  background-color: lightgreen;
+}
+
+#para4 {
+  color: blue;
+  background-color: lightblue;
+}
+
+button {
+  font-size: 32px;
+  color: indigo;
+  background-color: black;
+  border-color: violet;
+  border: 8px;
+  border-style: solid;
+  border-radius: 12px;
+  text-align: center;
+}
